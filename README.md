@@ -82,9 +82,14 @@ npm run test
 
 👤 **Vishvam Moliya**
 
-* Github: [@thevishvammoliya](https://github.com/thevishvammoliya)
-* LinkedIn: [@Vishvam Moliya](https://www.linkedin.com/in/vishvam-moliya-30ba69241/)
+* Github: [@thevishvammoliya](https://github.com/0xvish)
+* Portfolio: [vishvam.dev](https://www.vishvam.dev/)
+* LinkedIn: [@Vishvam Moliya](https://www.linkedin.com/in/vishvam-moliya)
 
+👤 **Kandarp Joshi**
+
+* Github: [@Kandarp Joshi](https://github.com/KandarpJoshi1112)
+* LinkedIn: [@Kandarp Joshi](https://www.linkedin.com/in/kandarp-joshi-3451231bb/)
 ## Show your support
 
 Give a ⭐️ if this project helped you!
